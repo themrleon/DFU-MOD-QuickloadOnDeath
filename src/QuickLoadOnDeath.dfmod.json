@@ -1,0 +1,11 @@
+{
+    "ModTitle": "Quickload On Death",
+    "ModVersion": "1.0",
+    "ModAuthor": "themrleon",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Automatically quickload game when player dies",
+    "GUID": "5fe0c3b7-bb04-490b-ab5e-d1c647b63772",
+    "Files": [
+        "Assets/Game/Mods/QuickloadOnDeath/QuickloadOnDeath.cs"
+    ]
+}
